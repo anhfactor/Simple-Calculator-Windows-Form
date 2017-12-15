@@ -1,0 +1,9 @@
+C:\Users\john\Documents\Visual Studio 2013\Projects\wpf\Calculator_WF\Calculator_WF\bin\Release\Calculator_WF.exe.config
+C:\Users\john\Documents\Visual Studio 2013\Projects\wpf\Calculator_WF\Calculator_WF\bin\Release\Calculator_WF.exe
+C:\Users\john\Documents\Visual Studio 2013\Projects\wpf\Calculator_WF\Calculator_WF\bin\Release\Calculator_WF.pdb
+C:\Users\john\Documents\Visual Studio 2013\Projects\wpf\Calculator_WF\Calculator_WF\obj\Release\Calculator_WF.csprojResolveAssemblyReference.cache
+C:\Users\john\Documents\Visual Studio 2013\Projects\wpf\Calculator_WF\Calculator_WF\obj\Release\Calculator_WF.Form1.resources
+C:\Users\john\Documents\Visual Studio 2013\Projects\wpf\Calculator_WF\Calculator_WF\obj\Release\Calculator_WF.Properties.Resources.resources
+C:\Users\john\Documents\Visual Studio 2013\Projects\wpf\Calculator_WF\Calculator_WF\obj\Release\Calculator_WF.csproj.GenerateResource.Cache
+C:\Users\john\Documents\Visual Studio 2013\Projects\wpf\Calculator_WF\Calculator_WF\obj\Release\Calculator_WF.exe
+C:\Users\john\Documents\Visual Studio 2013\Projects\wpf\Calculator_WF\Calculator_WF\obj\Release\Calculator_WF.pdb
